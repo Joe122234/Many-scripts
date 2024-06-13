@@ -1,0 +1,10 @@
+- Crypto website web scraper
+- - Wifi speed tester
+  - - Slot machine
+  - Book website scraper with input
+  - - Gpu prices web scraper - Notification sender
+    - - Banking program
+      - - Speech Search on google
+        - - Speech Todolist
+          - - Elon Musk and I Face Recognition,
+            -  Text to speech using input as text
